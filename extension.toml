@@ -1,0 +1,7 @@
+id = "codely-theme-blur"
+name = "Codely Theme (Blur)"
+schema_version = 1
+version = "1.0.0"
+description = "A Codely-inspirared theme for Zed with beautiful blur effect and some other fixes!"
+authors = ["GOI17 <olivasgilberto@gmail.com>", "laynexx <argo150808@gmail.com>"]
+repository = "https://github.com/laynexx-ns/codely-theme-zed-blur"
