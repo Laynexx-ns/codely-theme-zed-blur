@@ -1,8 +1,7 @@
 # Codely (Blur) theme
 
-A beautiful theme now in blur mode! <br/>
-Now it's only supports dark theme
-
+A beautiful theme, now with blur mode! <br/>
+Currently, it only supports the dark theme.
 
 # Preview:
 <img src="img/example1.jpg"/>
