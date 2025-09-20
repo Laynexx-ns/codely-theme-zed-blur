@@ -55,7 +55,7 @@
         "scrollbar.thumb.background": "#1e1e1e",
         "scrollbar.thumb.hover_background": "#FFFFFF33",
         "scrollbar.thumb.border": "#FFFFFF1A",
-        "scrollbar.track.background": "#d18616",
+        "scrollbar.track.background": "#2A2A2A",
         "scrollbar.track.border": "#1E1E1E",
         "editor.background": "#1E1E1EAA",
         "editor.gutter.background": "#1E1E1E88",
@@ -141,7 +141,7 @@
         "unreachable.background": "#8585851A",
         "unreachable.border": "#8585854D",
         "warning": "#FFB300",
-        "warning.background": "#FFB3001A",
+        "warning.background": "#FFB666",
         "warning.border": "#FFB3004D",
         "players": [
           {
